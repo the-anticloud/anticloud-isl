@@ -1,14 +1,14 @@
 # ISL
 
-> This repository contains Python code for a selection of tables, figures and LAB sections from the first edition of the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013).
+> A dark color theme for VS Code-compatible editors, including VSCodium, inspired by the easemate IDE. Features floating glass-like panels, rounded corners, smooth animations, and a deeply refined UI.
 
-**Category:** VOXELIZATION · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/JWarmenhoven/ISLR-python · **Pinned commit:** `4100e941914519eea18385daadc9b3dab99ca8e2` · **Vendor:** Anticloud FZ LLE
+**Category:** VOXELIZATION · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/bwya77/vscode-dark-islands · **Pinned commit:** `02ac4f301ae36ad623ca892a92e2f1f28423effb` · **Vendor:** Anticloud FZ LLE
 
-> **Note:** this package vendors `https://github.com/JWarmenhoven/ISLR-python` as the implementation for the `ISL` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+> **Note:** this package vendors `https://github.com/bwya77/vscode-dark-islands` as the implementation for the `ISL` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
 
 ## What This Project Is
 
-This repository contains Python code for a selection of tables, figures and LAB sections from the first edition of the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013).
+A dark color theme for VS Code-compatible editors, including VSCodium, inspired by the easemate IDE. Features floating glass-like panels, rounded corners, smooth animations, and a deeply refined UI.
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +62,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-0465440591873f9e6608f667aaf1ff1a4125cd8c0ff4975c39e870249468c41b
+37630159b525b4182d042cfc1fe877192b39feb96df8cd0da21cd1a01ca4a458
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

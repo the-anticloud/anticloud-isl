@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "4100e941914519eea18385daadc9b3dab99ca8e2",
-   "url": "https://github.com/JWarmenhoven/ISLR-python",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/bwya77/vscode-dark-islands",
+   "head": "02ac4f301ae36ad623ca892a92e2f1f28423effb",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/JWarmenhoven/ISLR-python"
   }
  }
 }
